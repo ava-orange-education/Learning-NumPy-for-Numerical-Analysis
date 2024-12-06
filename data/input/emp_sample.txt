@@ -1,0 +1,6 @@
+emp_id|employee_name|Department|city|salary
+1001|John Doe|HR|New York|60000
+1002|Emily Brown|Marketing|Los Angeles|68000
+1003|Alice Smith|Engineering|San Francisco|75000
+1004|Bob Johnson|Sales|Chicago|62000
+1005|David Lee|Finance|Houston|70000
